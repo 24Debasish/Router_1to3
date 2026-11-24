@@ -69,16 +69,6 @@ Each FIFO stores packets corresponding to a specific destination channel and sup
 
 - Verilog HDL
 
-### Digital Design Concepts
-
-- Finite State Machine (FSM)
-- FIFO Architecture
-- Packet-Based Communication
-- Synchronization Logic
-- Parity Error Detection
-- Sequential Logic Design
-- Active-Low Synchronous Reset
-
 ### Functional Features
 
 - 1x3 Packet Routing
@@ -91,3 +81,6 @@ Each FIFO stores packets corresponding to a specific destination channel and sup
 ## Author
 
 **Debasish Ghosh**
+
+- **Email:** your-ghosh2001debasish@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/debasish-ghosh-410537263/
